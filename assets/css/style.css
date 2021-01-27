@@ -17,15 +17,15 @@ p {
 }
 
 h1 {
-  font-size: 600%;
+  font-size: 300%;
 }
 
 h2 {
-  font-size: 450%;
+  font-size: 200%;
 }
 
 h3 {
-  font-size: 200%;
+  font-size: 120%;
 }
 
 h4 {
@@ -465,7 +465,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .tagline {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  font-size: 50px;
+  font-size: 200%;
   margin: 70px;
   color: #fff;
 }
